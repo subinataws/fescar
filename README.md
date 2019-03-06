@@ -1,6 +1,6 @@
 <img src="https://github.com/fescar-group/fescar-samples/blob/master/doc/img/fescar.png"  height="100" width="426">
 
-# Fescar: Fast & Easy Commit And Rollback
+# Fescar: Fast & Easy Commit And Rollback.
 
 [![Build Status](https://travis-ci.org/alibaba/fescar.svg?branch=develop)](https://travis-ci.org/alibaba/fescar)
 [![codecov](https://codecov.io/gh/alibaba/fescar/branch/develop/graph/badge.svg)](https://codecov.io/gh/alibaba/fescar)
